@@ -1,11 +1,43 @@
-## Osa 1-1 Otsikko
+## Laskutoimitukset ja muuttujat
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis nulla magna, a porttitor orci mattis eget. Nunc quis ligula sapien. Vestibulum cursus, lorem mollis pellentesque mollis, justo nunc dictum lectus, at faucibus magna urna vel nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque suscipit interdum arcu at molestie. In id erat vehicula erat rhoncus finibus. Maecenas in magna at ligula pharetra maximus. Curabitur metus augue, imperdiet non fermentum in, euismod sit amet dolor. Fusce pellentesque tortor maximus est pharetra, et vehicula velit convallis. Donec erat ligula, maximus ac nulla sed, congue dapibus nulla.
+### Terminaali
 
-Ut sed sem enim. Aliquam dictum, dui non bibendum elementum, lorem mauris varius libero, id tincidunt sem est a augue. Nullam metus tellus, sollicitudin non massa ut, interdum aliquet diam. Ut tincidunt lacinia felis quis volutpat. Vivamus iaculis semper dui, vitae laoreet turpis tempor aliquet. Morbi dignissim consectetur leo, eu pulvinar quam bibendum sit amet. Nulla eu justo euismod, lacinia odio quis, maximus velit. Curabitur non felis vel odio porta tristique nec quis velit. Suspendisse at dui tellus. Sed metus nisi, dictum id nunc eu, eleifend volutpat ipsum. Donec lobortis aliquam fringilla. Praesent lacinia vulputate tempor. Mauris lacinia libero sapien, at venenatis magna sollicitudin malesuada. Vestibulum eleifend placerat imperdiet.
+Kun avaat IDLE:n ensimmäisenä eteesi avautuu Pythonin terminaali. Terminaaliiin voi 
 
-Maecenas congue ante sed pretium tincidunt. Donec iaculis, risus eget mollis auctor, libero sapien consequat eros, ut pulvinar mauris nisl faucibus mi. Praesent id ex tristique, faucibus mi nec, dapibus nulla. Sed efficitur quis orci ut rutrum. Maecenas feugiat ultricies lacus ut tempus. Sed ultrices lorem a est pharetra pharetra. Donec sodales, justo in commodo finibus, tellus elit aliquam diam, nec maximus sapien lectus a eros. Nam egestas pharetra massa, in faucibus nibh tristique aliquet. Nullam cursus pellentesque accumsan. Aenean et molestie ligula. Fusce ac eleifend libero. Maecenas ante tellus, feugiat sed commodo ut, finibus et purus. Ut vitae urna at dui dictum bibendum at vitae sapien. Nulla facilisi. Pellentesque a dapibus elit. Nullam turpis nunc, pretium vel nunc at, finibus fringilla ante.
+### Laskutoimitukset
 
-Nam leo sem, cursus eu maximus ac, efficitur id neque. Duis consequat rhoncus metus ut dictum. Quisque fermentum faucibus dolor, ut sollicitudin nunc aliquet ut. Sed nec metus non mi euismod dapibus. Fusce euismod nunc eu tempor vestibulum. Quisque auctor erat elit, ut bibendum sapien ullamcorper vel. Quisque convallis sit amet diam a malesuada. Duis convallis bibendum diam, ut porttitor metus dictum sed. Sed nec leo ac erat volutpat vestibulum condimentum id orci. Phasellus condimentum turpis sed ante condimentum, eget viverra leo rutrum. Maecenas tincidunt neque id fringilla porttitor. Suspendisse potenti. Donec eu eleifend dolor.
 
-Quisque gravida vulputate dui non pretium. Donec tincidunt ex in consequat malesuada. Nunc tempus tristique ultricies. Fusce metus eros, efficitur et semper ut, imperdiet accumsan sapien. Praesent ut ligula laoreet orci bibendum elementum. Fusce id sem cursus, semper turpis non, facilisis velit. Curabitur tempus tempor massa, sed sodales felis consectetur in. Phasellus viverra pretium eros, a posuere turpis elementum in. Aliquam sed justo libero. Proin ut risus sem. Duis feugiat sit amet mauris eget ultricies. Aenean at ipsum non eros facilisis rutrum quis sit amet orci. Fusce aliquet vel erat non blandit. Nunc tristique efficitur quam eget egestas. Proin consectetur 
+
+### Muuttujat
+
+
+### Esimerkkejä
+
+| koodi | mitä tekee |
+| ----- | ---------- |
+| 1+2 |laskee lukujen 1 ja 2 summan eli 3|
+| 2-6 | laskee lukuje 2 ja 6 erotuksen eli -4 |
+| 2*2 | laskee lukujen 2 ja 2 tulon eli 4 |
+| 10/5 | laskee lukujen 10 ja 5 osamäärän eli 2 |
+| luku = 1 | tallentaa muuttujaan nimeltä _luku_ arvon 1 |
+| luku + 4 | laskee muuttujan _luku_ arvon ja luvun 4 summan |
+| luku1 * luku2 | laskee muuttujien _luku1_ ja _luku2_ arvojen tulon |
+
+
+### Tehtävät
+
+1. Avaa Idlen terminaali. Seuraavat tehtävät tehdään terminaalissa.
+
+1. Laske alla olevat laskut Pythonin terminaalissa:
+
+    ![Kuvana seuraavat laskutoimitukset: 56+29, 32-17, 4 kertaa 5 ja 8 jaettuna 4:llä ](kuvat/laskutoimitukset1.png)
+
+1. Laske alla olevat laskut Pythonin terminaalissa:
+
+    ![Kuvana seuraavat laskutoimitukset:](kuvat/laskutoimitukset2.png)
+
+1. Luo muuttuja nimeltä ikä ja tallenna muuttujaan oma ikäsi.
+
+1. Laske ikäsi viiden vuoden päästä muuttujan avulla.
+
+1. Luo muuttuja munikä, johon tallennat oman ikäsi. Luo muuttuja sunikä ja tallenna siihen vierustoverisi ikä. Laske ikänne yhteen muuttujien avulla.

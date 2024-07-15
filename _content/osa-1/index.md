@@ -1,9 +1,9 @@
 ---
 nav-title: Osa 1
 sub-sections:
-      - sub-section-title: Osa 1-1 Otsikko
-      - sub-section-title: Osa 1-2 Otsikko
-      - sub-section-title: Osa 1-3 Otsikko
+      - sub-section-title: Laskutoimitukset ja muuttujat
+      - sub-section-title: Tulostus ja tietotyypit
+      - sub-section-title:  Käyttäjän syöte
 ---
 # Osa 1
 

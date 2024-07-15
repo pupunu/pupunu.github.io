@@ -1,11 +1,58 @@
-## Osa 1-2 Otsikko
+## Tulostus ja tietotyypit
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis nulla magna, a porttitor orci mattis eget. Nunc quis ligula sapien. Vestibulum cursus, lorem mollis pellentesque mollis, justo nunc dictum lectus, at faucibus magna urna vel nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque suscipit interdum arcu at molestie. In id erat vehicula erat rhoncus finibus. Maecenas in magna at ligula pharetra maximus. Curabitur metus augue, imperdiet non fermentum in, euismod sit amet dolor. Fusce pellentesque tortor maximus est pharetra, et vehicula velit convallis. Donec erat ligula, maximus ac nulla sed, congue dapibus nulla.
+### Oma tiedosto
 
-Ut sed sem enim. Aliquam dictum, dui non bibendum elementum, lorem mauris varius libero, id tincidunt sem est a augue. Nullam metus tellus, sollicitudin non massa ut, interdum aliquet diam. Ut tincidunt lacinia felis quis volutpat. Vivamus iaculis semper dui, vitae laoreet turpis tempor aliquet. Morbi dignissim consectetur leo, eu pulvinar quam bibendum sit amet. Nulla eu justo euismod, lacinia odio quis, maximus velit. Curabitur non felis vel odio porta tristique nec quis velit. Suspendisse at dui tellus. Sed metus nisi, dictum id nunc eu, eleifend volutpat ipsum. Donec lobortis aliquam fringilla. Praesent lacinia vulputate tempor. Mauris lacinia libero sapien, at venenatis magna sollicitudin malesuada. Vestibulum eleifend placerat imperdiet.
+Jos haluamme kirjoittaa ohjelman, jossa on useampia rivejä ja jonka voimme tallentaa, meidän pitää käyttää tiedostoa. 
 
-Maecenas congue ante sed pretium tincidunt. Donec iaculis, risus eget mollis auctor, libero sapien consequat eros, ut pulvinar mauris nisl faucibus mi. Praesent id ex tristique, faucibus mi nec, dapibus nulla. Sed efficitur quis orci ut rutrum. Maecenas feugiat ultricies lacus ut tempus. Sed ultrices lorem a est pharetra pharetra. Donec sodales, justo in commodo finibus, tellus elit aliquam diam, nec maximus sapien lectus a eros. Nam egestas pharetra massa, in faucibus nibh tristique aliquet. Nullam cursus pellentesque accumsan. Aenean et molestie ligula. Fusce ac eleifend libero. Maecenas ante tellus, feugiat sed commodo ut, finibus et purus. Ut vitae urna at dui dictum bibendum at vitae sapien. Nulla facilisi. Pellentesque a dapibus elit. Nullam turpis nunc, pretium vel nunc at, finibus fringilla ante.
+### Tulostus
 
-Nam leo sem, cursus eu maximus ac, efficitur id neque. Duis consequat rhoncus metus ut dictum. Quisque fermentum faucibus dolor, ut sollicitudin nunc aliquet ut. Sed nec metus non mi euismod dapibus. Fusce euismod nunc eu tempor vestibulum. Quisque auctor erat elit, ut bibendum sapien ullamcorper vel. Quisque convallis sit amet diam a malesuada. Duis convallis bibendum diam, ut porttitor metus dictum sed. Sed nec leo ac erat volutpat vestibulum condimentum id orci. Phasellus condimentum turpis sed ante condimentum, eget viverra leo rutrum. Maecenas tincidunt neque id fringilla porttitor. Suspendisse potenti. Donec eu eleifend dolor.
+Kun ohjelma kirjoitetaan tiedostoon, mutta haluamme saada jotain näkyviin terminaaliin, voimme tulostaa sinne tekstiä komennolla ```print()```.
 
-Quisque gravida vulputate dui non pretium. Donec tincidunt ex in consequat malesuada. Nunc tempus tristique ultricies. Fusce metus eros, efficitur et semper ut, imperdiet accumsan sapien. Praesent ut ligula laoreet orci bibendum elementum. Fusce id sem cursus, semper turpis non, facilisis velit. Curabitur tempus tempor massa, sed sodales felis consectetur in. Phasellus viverra pretium eros, a posuere turpis elementum in. Aliquam sed justo libero. Proin ut risus sem. Duis feugiat sit amet mauris eget ultricies. Aenean at ipsum non eros facilisis rutrum quis sit amet orci. Fusce aliquet vel erat non blandit. Nunc tristique efficitur quam eget egestas. Proin consectetur 
+### Tietotyypit
+
+Kun tietokone käsittelee tietoa, sille on tärkeää minkä tyyppinen tieto on kyseessä. Tietotyyppejä ovat muun muassa erilaiset luvut, kuten kokonaisluvut, ja teksti, jota kutsutaan usein merkkijonoksi. Pythonissa kun muuttujaan tallettaa tietoa, tietokone päättelee annetusta tiedosta automaattisesti tietotyypin. Esimerkiksi koodista ```x = 1```, tietokone osaa päätellä, että ```x``` on kokonaisluku, koska ```1``` on kokonaisluku. Tekstin eli merkkijonot se tunnistaa tekstin ympärillä olevista lainausmerkeistä, esim. ```y = "sana"```.
+
+
+### Esimerkkejä
+
+| koodi | mitä tekee |
+| ----- | ---------- |
+| print("moikka") |tulostaa terminaaliin viestin _moikka_ |
+|print(2)| tulostaa terminaaliin _2_ |
+| print(2+2) | tulostaa terminaaliin _4_ |
+| print("2+2") | tulostaa terminaaliin _2+2_ |
+| print(muuttuja) | tulostaan terminaaliin muuttujan arvon |
+| print("muuttuja") | tulostaa terminaaliin _muuttuja_ |
+| print("moi" + "ka") | tulostaa terminaaliin _moikka_ |
+
+### Tehtävät
+
+1. Luo Idlessä uusi tiedosto ja nimeä se testi.py. Seuraavat tehtävät tehdään tähän tiedostoon.
+
+1. Kirjoita ohjelma joka tulostaa tekstin: Hei! Olen robotti.
+
+1. Kirjoita ohjelma joka tulostaa tekstin: Hei! Olen ihminen.
+
+1. Kirjoita ohjelma, joka tulostaa ikäsi.
+
+1. Kirjoita ohjelma, joka tulostaa ikäsi kymmenen vuoden päästä käyttäen yhteenlaskua.
+
+1. Kirjoita ohjelma, joka tulostaa laskutoimituksen 4+2 (EI sen tulosta 6!)
+
+1. Ohjelmoi tervehtijä
+
+   - Luo muuttuja nimi ja tallenna siihen nimesi.
+
+   - Tulosta muuttujan avulla Hei nimi, jossa nimi on oma nimesi.
+
+8. Kirjoita tarina muuttujilla
+
+    - Luo muuttujat x ja y ja anna niille haluamasi arvot. Esim. Tiittu ja robotti. 
+
+    - Kirjoita tarina käyttäen muuttujia x ja y ja seuraavaa tekstiä:
+
+```Python3
+Olipa kerran x. x oli hieno y. 
+Mutta se, että x oli y aiheutti ongelmia, sillä kaikki eivät pitäneet siitä, että x oli y.
+Jonkin ajan kuluttua muut kuitenkin hyväksyivät että x oli y, koska x oli niin ystävällinen y. Ja kaikki elivät onnellisina elämänsä loppuun asti.
+```

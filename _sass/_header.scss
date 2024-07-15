@@ -5,7 +5,7 @@ Styling of the header
 .header {
     text-align: center;
     font-size: 2rem;
-    color: black;
+    color: #108812;
     padding: 1em 1em 0;
     max-width: 45rem;
     margin: auto;
@@ -15,7 +15,6 @@ Styling of the header
 
 .header h1 {
     border-radius: 8px;
-    background: rgb(209, 209, 209);
 }
 
 .header + .content {
