@@ -1,4 +1,4 @@
-# Osa 2 - Ympyrä - Tehtävät
+# Osa 2 tehtävät
 
 1. 
 Luo uusi python-ohjelma, jolla on ikkuna (leveys 800, korkeus 600) ja joka avautuu mustana, kun ohjelman laittaa käyntiin.
@@ -65,7 +65,3 @@ Laita ympyrä oikean laidan keskelle.
 
 d)
 Laita ympyrä vasempaan alakulmaan niin, että se on kuitenkin kokonaan näkyvissä.
-
----
-
-[Seuraava osa](../osa3/ohjeet.md)

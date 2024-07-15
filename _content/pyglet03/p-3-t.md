@@ -58,6 +58,3 @@ c) Muokkaa koodia niin, että ympyrä ei muutu nappia painamalla punaiseksi vaan
 
 d) Muokkaa koodia niin, että ympyrä on aluksi punainen ja palaa napin painamisen loputtua punaiseksi.
 
----
-
-[Seuraava osa](../osa4/ohjeet.md)

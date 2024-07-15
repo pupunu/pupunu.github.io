@@ -1,4 +1,4 @@
-# Osa 7 - Ohjattava ympyrä - Tehtävät
+# Osa 7 tehtävät
 
 1. Tee ohjelma, jolla on ikkuna, ja ikkunassa ympyrä.
 

@@ -42,7 +42,3 @@ Jatka ensimmäisen tehtävän ohjelmaa.
 a) Muokkaa koodia niin, että pienemmän ikkunan otsikoksi tulee _pieni ikkuna_.
 
 b) Muokkaa koodia niin, että isomman ikkunan otsikoksi tulee _iso ikkuna_.
-
----
-
-[Seuraava osa](../osa2/ohjeet.md)

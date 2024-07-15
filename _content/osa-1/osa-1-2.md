@@ -1,16 +1,16 @@
-## Tulostus ja tietotyypit
+# Tulostus ja tietotyypit
 
 ### Oma tiedosto
 
-Jos haluamme kirjoittaa ohjelman, jossa on useampia rivejä ja jonka voimme tallentaa, meidän pitää käyttää tiedostoa. 
+Terminaalissa voi testailla yksittäisiä komentoja, mutta ohjelman kirjoittamiseen se ei sovellu. Jos haluamme kirjoittaa ohjelman, jossa on useampia rivejä ja jonka voimme tallentaa, meidän pitää käyttää tiedostoa.
 
 ### Tulostus
 
 Kun ohjelma kirjoitetaan tiedostoon, mutta haluamme saada jotain näkyviin terminaaliin, voimme tulostaa sinne tekstiä komennolla ```print()```.
 
-### Tietotyypit
+### Luvut ja merkkijonot
 
-Kun tietokone käsittelee tietoa, sille on tärkeää minkä tyyppinen tieto on kyseessä. Tietotyyppejä ovat muun muassa erilaiset luvut, kuten kokonaisluvut, ja teksti, jota kutsutaan usein merkkijonoksi. Pythonissa kun muuttujaan tallettaa tietoa, tietokone päättelee annetusta tiedosta automaattisesti tietotyypin. Esimerkiksi koodista ```x = 1```, tietokone osaa päätellä, että ```x``` on kokonaisluku, koska ```1``` on kokonaisluku. Tekstin eli merkkijonot se tunnistaa tekstin ympärillä olevista lainausmerkeistä, esim. ```y = "sana"```.
+Kun tietokone käsittelee tietoa, sille on tärkeää millainen tieto on kyseessä. Erilaisia tietoja ovat muun muassa luvut, kuten kokonaisluvut, ja teksti, jota kutsutaan merkkijonoksi. Pythonissa kun muuttujaan tallettaa tietoa, tietokone päättelee annetusta tiedosta automaattisesti tietotyypin. Esimerkiksi koodista ```x = 1```, tietokone osaa päätellä, että ```x``` on kokonaisluku, koska ```1``` on kokonaisluku. Tekstin eli merkkijonot se tunnistaa tekstin ympärillä olevista lainausmerkeistä, esim. ```y = "sana"```.
 
 
 ### Esimerkkejä
