@@ -1,18 +1,20 @@
 # Laskutoimitukset ja muuttujat
 
-### Terminaali
+## Terminaali
 
 Kun avaat IDLE:n, ensimmäisenä eteesi avautuu Pythonin terminaali. Terminaaliiin voi kirjoittaa yksittäisiä komentoja ja ne suorittuvat heti. Kokeillaan hiukan miten terminaali toimii!
 
-### Laskutoimitukset
+## Laskutoimitukset
 
 Yksinkertaisimmat komennot, joita terminaaliin voi kirjoittaa, ovat erilaiset laskutoimitukset. Pythonilla voi laskea helposti vaikkapa yhteen-, vähennys-, kerto ja jakolaskuja. Erilaiset laskutoimitukset ovat tärkeitä myös monimutkaisemmissa ohjelmissa.
 
-### Muuttujat
+## Muuttujat
 
 Kun haluamme ottaa tietoa talteen myöhempää käyttöä varten, tarvitsemme muuttujia. Muuttuja on kuin laatikko tietokoneen muistissa. Laatikkoon merkitään päälle mitä laatikon sisällä on ja laitetaan asia laatikkoon. Myöhemmin oikeat asiat on helppo löytää nimikoiduista laatikoista.
 
-Samalla tavalla muuttujalle annetaan nimi ja siihen talletetaan arvoja. Esimerkiksi voimme nimetä muuttujan _luku_ ja laittaa sinne arvon 17. Tämä tehdään Pythonissa komennolla ```luku = 17```. Ensin siis sanotaan muuttujan nimi, sen jälkeen tulee yhtäsuuruusmerkki ja sitten muuttujaan laitettava arvo.
+Samalla tavalla muuttujalle annetaan nimi ja siihen tallennetaan arvoja. Esimerkiksi voimme nimetä muuttujan _luku_ ja laittaa sinne arvon 17. Tämä tehdään Pythonissa komennolla ```luku = 17```. Ensin siis sanotaan muuttujan nimi, sen jälkeen tulee yhtäsuuruusmerkki ja sitten muuttujaan laitettava arvo.
+
+Muuttujan arvoa voi myös muuttaa myöhemmin samalla tavalla. ```luku = 17``` luo uuden muuttujan, jos sellaista ei vielä ole. Jos muuttuja on jo aiemmin luotu, se vain antaa sille uuden arvon.
 
 Kun myöhemmin koodissamme kirjoitamme muuttujamme nimen, tietokone etsii muistista muuttujan arvon ja käyttää sitä.
 
@@ -20,7 +22,7 @@ Kun myöhemmin koodissamme kirjoitamme muuttujamme nimen, tietokone etsii muisti
 <img src="kuvat/muuttujalaatikko.png" height=400/>
 
 
-### Esimerkkejä
+## Esimerkkejä
 
 | koodi | mitä tekee |
 | ----- | ---------- |
@@ -31,9 +33,10 @@ Kun myöhemmin koodissamme kirjoitamme muuttujamme nimen, tietokone etsii muisti
 | luku = 1 | tallentaa muuttujaan nimeltä _luku_ arvon 1 |
 | luku + 4 | laskee muuttujan _luku_ arvon ja luvun 4 summan |
 | luku1*luku2 | laskee muuttujien _luku1_ ja _luku2_ arvojen tulon |
+|a = a + 1| tallentaa muuttujaan _a_ muuuttujan _a_ vanhan arvon ja ykkösen summan, eli kasvattaa _a_:n arvoa yhdellä.|
 
 
-### Tehtävät
+## Tehtävät
 
 1. Avaa Idlen terminaali. Seuraavat tehtävät tehdään terminaalissa.
 
