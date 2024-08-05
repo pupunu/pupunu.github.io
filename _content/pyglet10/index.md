@@ -1,9 +1,9 @@
 ---
-nav-title: "Pyglet: Moduulit ja Visual Studio Code"
+nav-title: Pyglet 10
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 10
-      - sub-section-title: Pyglet-tehtävät 10
-# Osa 1
+      - sub-section-title: Moduulit ja Visual Studio Code
+      - sub-section-title: Tehtävät
+# Osa 10
 
 ---
 

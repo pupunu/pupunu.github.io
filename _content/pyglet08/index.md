@@ -1,8 +1,8 @@
 ---
-nav-title: "Pyglet: Liikkumisen laajennus"
+nav-title: Pyglet 8
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 
-      - sub-section-title: Pyglet-tehtävät 
+      - sub-section-title: Liikkuminen kaikkiin suuntiin
+      - sub-section-title: Tehtävät 
 # Osa 1
 
 ---

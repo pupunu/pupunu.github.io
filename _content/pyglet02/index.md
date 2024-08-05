@@ -1,8 +1,8 @@
 ---
-nav-title: "Pyglet: Ympyrä"
+nav-title: "Pyglet 2"
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 2
-      - sub-section-title: Pyglet-tehtävät 2
+      - sub-section-title: Ympyrä
+      - sub-section-title: Tehtävät
 # Osa 1
 
 ---

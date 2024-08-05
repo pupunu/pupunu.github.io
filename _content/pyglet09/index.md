@@ -1,8 +1,8 @@
 ---
-nav-title: "Pyglet: Lisää funktioita"
+nav-title: Pyglet 9
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 9
-      - sub-section-title: Pyglet-tehtävät 9
+      - sub-section-title: Lisää funktioita
+      - sub-section-title: Tehtävät
 # Osa 9
 
 ---

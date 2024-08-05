@@ -1,8 +1,8 @@
 ---
-nav-title: "Pyglet: Koordinaatit"
+nav-title: Pyglet 6
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 6 
-      - sub-section-title: Pyglet-tehtävät 6
+      - sub-section-title: Koordinaatit 
+      - sub-section-title: Tehtävät
 # Osa 1
 
 ---

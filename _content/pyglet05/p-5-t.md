@@ -1,4 +1,4 @@
-# Osa 5 - Aikataulutus ja funktiot - Tehtävät 
+# Tehtävät 
 
 1. 
 

@@ -1,8 +1,8 @@
 ---
-nav-title: "Pyglet: Aikataulutus ja funktiot"
+nav-title: Pyglet 5
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 5
-      - sub-section-title: Pyglet-tehtävät 5
+      - sub-section-title: Aikataulutus ja funktiot
+      - sub-section-title: Tehtävät
 # PygletOsa 5
 
 ---

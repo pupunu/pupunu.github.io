@@ -1,4 +1,4 @@
-# Osa 6 tehtävät
+# Tehtävät
 
 1. Tarvitset jokaisessa tehtävässä ohjelmaa, jolla on ikkuna. Ikkunan koon tulee olla leveydeltään 800 ja korkeudeltaan 600, ja siihen piirretään ympyrä. Ohjelmoi kyseinen ohjelma.
 

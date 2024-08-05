@@ -1,3 +1,5 @@
+# Pelaaja
+
 ## Luodaan pelaajahahmo
 
 Luodaan seuraavaksi tiedosto, missä luomme ja mihin säilömme kaiken pelin datan. Lisätään kansioon uusi tiedosto nimeltä `data.py`. Avaa tiedosto.

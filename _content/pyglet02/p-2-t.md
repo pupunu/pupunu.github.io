@@ -1,5 +1,4 @@
-# Osa 2 tehtävät
-
+# Tehtävät
 1. 
 Luo uusi python-ohjelma, jolla on ikkuna (leveys 800, korkeus 600) ja joka avautuu mustana, kun ohjelman laittaa käyntiin.
 

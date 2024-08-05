@@ -1,4 +1,4 @@
-# Osa 3 - Ikkunatapahtumat - Tehtävät
+# Tehtävät
 
 1.
 

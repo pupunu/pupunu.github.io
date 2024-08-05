@@ -1,4 +1,4 @@
-## Keräiltävä esine
+# Keräiltävä esine
 
 Seuraavaksi tehdään peliin keräiltävä "hedelmä". Hedelmä voi olla hyvin vaikkapa pienempi ympyrä. Luodaan hedelmä data.py-tiedostossa. Hedelmä voi olla vaikkapa vihreä. Talennetaan kätevyyden nimissä vihreä väri ensin muuttujaan `VIHREÄ` ja käytetään sitä hahmon luonnissa. Hedelmän x- ja y-sijainti kannattaa myös valita niin, että se ei aloita pelaajahahmon alta.
 

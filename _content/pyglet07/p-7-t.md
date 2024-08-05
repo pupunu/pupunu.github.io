@@ -1,4 +1,4 @@
-# Osa 7 tehtävät
+# Tehtävät
 
 1. Tee ohjelma, jolla on ikkuna, ja ikkunassa ympyrä.
 

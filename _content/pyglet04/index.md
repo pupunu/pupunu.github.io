@@ -1,8 +1,8 @@
 ---
-nav-title: "Pyglet: Ikkunatapahtumat"
+nav-title: "Pyglet 4"
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 4
-      - sub-section-title: Pyglet-tehtävät 4
+      - sub-section-title: Ehtolauseet
+      - sub-section-title: Tehtävät
 # Osa 1
 
 ---

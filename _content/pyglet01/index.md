@@ -1,8 +1,8 @@
 ---
-nav-title: "Pyglet: Ikkuna"
+nav-title: "Pyglet 1"
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 1
-      - sub-section-title: Pyglet-tehtävät 1
+      - sub-section-title: Ikkuna
+      - sub-section-title: Tehtävät
 # Osa 1
 
 ---

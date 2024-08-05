@@ -1,8 +1,8 @@
 ---
-nav-title: "Pyglet: Ikkunatapahtumien käsittely"
+nav-title: "Pyglet 3"
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 3
-      - sub-section-title: Pyglet-tehtävät 3
+      - sub-section-title: Ikkunatapahtumien käsittely
+      - sub-section-title: Tehtävät
 
 
 ---

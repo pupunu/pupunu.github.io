@@ -1,4 +1,4 @@
-# Osa 4 - Ehtolauseet - Tehtävät
+# Tehtävät
 
 Tarvitset tehtäviä varten ohjelman, jolla on ikkuna, jossa näkyy valkoinen ympyrä.
 

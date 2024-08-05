@@ -1,4 +1,4 @@
-# Osa 1 - Ikkuna ja ympyrä - Tehtävät
+# Tehtävät
 
 1. 
 

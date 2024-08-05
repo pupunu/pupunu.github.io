@@ -1,8 +1,8 @@
 ---
-nav-title: "Pyglet: Ohjattava ympyrä"
+nav-title: Pyglet 7
 sub-sections:
-      - sub-section-title: Pyglet-ohjeet 7 
-      - sub-section-title: Pyglet-tehtävät 7
+      - sub-section-title: Ohjattava ympyrä
+      - sub-section-title: Tehtävät
 # Osa 1
 
 ---
