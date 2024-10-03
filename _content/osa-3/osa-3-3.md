@@ -30,7 +30,12 @@ for asia in range(10):
     print("moi")
 ```
 
+> Huom! For-komennon kanssa riittä pelkkä `range()`, mutta voi käyttää myös aikaisemmin tuttua `list(range())`-komentoa.
+
 Komennolla `range(10)` luodaan lista [0, ..., 9], jossa on 10 alkiota. Siispä sen läpikäynti tuottaa 10 toistoa. Jokaisella toistolla tulostetaan "moi".
+
+
+
 
 ## Tehtävät
 

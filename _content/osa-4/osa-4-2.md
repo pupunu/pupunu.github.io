@@ -29,13 +29,13 @@ while True:
         print("Tasapeli!")
 
     elif pelaaja == "kivi":
-        if ta == "paperi":
+        if tekoäly == "paperi":
             print("Hävisit!")
         else:
             print("Voitit!")
 
     elif pelaaja == "paperi":
-        if ta == "sakset":
+        if tekoäly == "sakset":
         print("Hävisit!")
         else:
             print("Voitit!")

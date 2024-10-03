@@ -56,7 +56,7 @@ Sort-komento järjestelee lista. jos listassa on lukuja, ne menevät suuruusjär
 
 Tietynlaisten listojen luomisesta on haluttu tehdä helppoa. Listan jossa tietyt arvot toistuvat, voi luoda kertomalla listan. Esimerkiksi `lista = [1]*4` luo listan `[1, 1, 1, 1]`.
 
-Toinen tapa luoda listoja nopeasti, on käyttää `range()`-komentoa. Sillä voi luoda listoja, joissa on tietyn kaavan mukaisesti lukuja. Rangelle voi antaa yhden luvun, jolloin syntyy lista, jossa on luvut nollasta yhtä annettua lukua pienempään lukuun. Jos listalle antaa sulkuihin kaksi lukua, saa listan jossa on luvut ensimmäisestä luvusta oista annettua lukua yhtä pienempään lukuun. Jos antaa kolme lukua, kolmas luku määrittää minkä kokoisia "askeleita" lukujen välillä on.
+Toinen tapa luoda listoja nopeasti, on käyttää `list(range())`-komentoa. Sillä voi luoda listoja, joissa on tietyn kaavan mukaisesti lukuja. Rangelle voi antaa yhden luvun, jolloin syntyy lista, jossa on luvut nollasta yhtä annettua lukua pienempään lukuun. Jos listalle antaa sulkuihin kaksi lukua, saa listan jossa on luvut ensimmäisestä luvusta oista annettua lukua yhtä pienempään lukuun. Jos antaa kolme lukua, kolmas luku määrittää minkä kokoisia "askeleita" lukujen välillä on.
 
 ### Esimerkkejä
 
@@ -66,7 +66,7 @@ Toinen tapa luoda listoja nopeasti, on käyttää `range()`-komentoa. Sillä voi
 |["a", "b"]*2 | luo listan ["a", "b", "a", "b"]|
 | range(5) | luo lista [0, 1, 2, 3, 4]|
 | range(2, 6)| luo listan [2, 3, 4, 5]
-|range(0, 10, 2) | luo listan [0, 2, 4, 6, 8] |
+|list(range(0, 10, 2)) | luo listan [0, 2, 4, 6, 8] |
 
 ## Tehtävät
 
