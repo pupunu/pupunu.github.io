@@ -5,13 +5,13 @@
 
 2. Ohjelmoi seuraavat asiat edellisen tehtävän ohjelmaan juuri ennen koodia `pyglet.app.run()`.
 
-a) Käynnistä ohjelma ja katso missä ympyrä sijaitsee.
+  - a) Käynnistä ohjelma ja katso missä ympyrä sijaitsee.
 
-b) Kirjoita nyt ohjelmaan `ympyrä.x = 100` ja käynnistä se uudestaan. Mitä tapahtuu? Siirrä koodinpätkä toiseen kohtaan ohjelmaa. Miten tämä vaikuttaa ohjelmaan?
+  - b) Kirjoita nyt ohjelmaan `ympyrä.x = 100` ja käynnistä se uudestaan. Mitä tapahtuu? Siirrä koodinpätkä toiseen kohtaan ohjelmaa. Miten tämä vaikuttaa ohjelmaan?
 
-c) Korvaa äsken lisäämäsi koodi. Kirjoita sen tilalle `ympyrä.x = 800`. Käynnistä ohjelma uudelleen. Mitä tapahtuu?
+  - c) Korvaa äsken lisäämäsi koodi. Kirjoita sen tilalle `ympyrä.x = 800`. Käynnistä ohjelma uudelleen. Mitä tapahtuu?
 
-d) Lisää koodi `ympyrä.y = 50`. Käynnistä ohjelma uudelleen ja tutki mitä tapahtuu.
+  - d) Lisää koodi `ympyrä.y = 50`. Käynnistä ohjelma uudelleen ja tutki mitä tapahtuu.
 
 
 3. Käytä ohjelmaa, jonka teit tehtävässä yksi.
@@ -22,14 +22,14 @@ Ohjelmassasi luodaan ympyrä luultavasti jollain suunnilleen tämän näköisell
 
 Kokeile nyt muokata tässä koodissa olevia kohtia `x = 400` ja `y = 300`.
 
-a) Muokkaa koodia niin, että ympyrä on aivan vasemmassa reunassa.
+  - a) Muokkaa koodia niin, että ympyrä on aivan vasemmassa reunassa.
 
-b) Muokkaa koodia niin, että ympyrä on aivan yläreunassa.
+  - b) Muokkaa koodia niin, että ympyrä on aivan yläreunassa.
 
-c) Muokkaa koodia niin, että ympyrä on aivan oikeassa alareunassa.
+  - c) Muokkaa koodia niin, että ympyrä on aivan oikeassa alareunassa.
 
 4. Seuraavaksi hyödynnämme aikaisemmin opittuja ikkunatapahtumia. Voit lisätä nämä haluamaasi ohjelmaan.
 
-a) Ohjelmassa ympyrä liikkuu aivan yläreunaan painamalla nuoliylösnäppäintä. Pygletissä näppäimen nimi on `pyglet.window.key.UP`, 
-b) Lisäksi ohjelmassa ympyrä liikkuu aivan alareunaan painamalla nuolialasnäppäintä. Näppäimen nimen voi päätellä, mutta myös tarkistaa [täältä](https://pyglet.readthedocs.io/en/latest/programming_guide/keyboard.html#defined-key-symbols).
-c) Muuta ohjelma sellaiseksi, että napinpainallukset siirtävät ympyrää ylemmäs ja alemmas. Nyt ympyrää pitäisi pystyä ohjaamaan pystysuunnassa näpyttämällä ylös- ja alasnäppäimiä.
+  - a) Ohjelmassa ympyrä liikkuu aivan yläreunaan painamalla nuoliylösnäppäintä. Pygletissä näppäimen nimi on `pyglet.window.key.UP`, 
+  - b) Lisäksi ohjelmassa ympyrä liikkuu aivan alareunaan painamalla nuolialasnäppäintä. Näppäimen nimen voi päätellä, mutta myös tarkistaa [täältä](https://pyglet.readthedocs.io/en/latest/programming_guide/keyboard.html#defined-key-symbols).
+  - c) Muuta ohjelma sellaiseksi, että napinpainallukset siirtävät ympyrää ylemmäs ja alemmas. Nyt ympyrää pitäisi pystyä ohjaamaan pystysuunnassa näpyttämällä ylös- ja alasnäppäimiä.
