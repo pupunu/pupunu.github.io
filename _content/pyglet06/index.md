@@ -2,7 +2,7 @@
 nav-title: Pyglet 6
 sub-sections:
       - sub-section-title: Koordinaatit 
-      - sub-section-title: Tehtävät
+      - sub-section-title: Koordinaatti tehtävät
 # Osa 1
 
 ---
