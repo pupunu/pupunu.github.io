@@ -4,7 +4,7 @@
 	2. Muokkaa koodia niin, että koordinaatteja ei muutetakaan kahdellakymmenellä vaan viidellä. Mitä liikkumiselle tapahtuu?
 
 
-2. Entä liikkuminen WASD-näppäimet?
+2. Entä liikkuminen WASD-näppäimistä?
 
 	Videopeleistä toinen mahdollinen ohjaustapa on ns. WASD, jossa ylöspäin liikutaan W-näppäimestä ja loput suunnat voikin jo päätellä näppäimistön asettelusta. Muokkaa koodia niin, että ympyrä ei liikukaan nuolinäppäimistä vaan WASD-näppäimistä.
 
