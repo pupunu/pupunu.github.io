@@ -7,7 +7,7 @@
 
 a) Käynnistä ohjelma ja katso missä ympyrä sijaitsee.
 
-b) Kirjoita nyt ohjelmaan `ympyrä.x = 100` ja käynnistä se uudestaan. Mitä tapahtuu?
+b) Kirjoita nyt ohjelmaan `ympyrä.x = 100` ja käynnistä se uudestaan. Mitä tapahtuu? Siirrä koodinpätkä toiseen kohtaan ohjelmaa. Miten tämä vaikuttaa ohjelmaan?
 
 c) Korvaa äsken lisäämäsi koodi. Kirjoita sen tilalle `ympyrä.x = 800`. Käynnistä ohjelma uudelleen. Mitä tapahtuu?
 
