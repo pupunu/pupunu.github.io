@@ -9,7 +9,7 @@
 	Videopeleistä toinen mahdollinen ohjaustapa on ns. WASD, jossa ylöspäin liikutaan W-näppäimestä ja loput suunnat voikin jo päätellä näppäimistön asettelusta. Muokkaa koodia niin, että ympyrä ei liikukaan nuolinäppäimistä vaan WASD-näppäimistä.
 
 3. Haastavampi tehtävä
-Lisää ohjelmaasi toinen ympyrä, niin että toista voi liikuttaa nuolinäppäimistä ja toista WASD-näppäimistä
+	Lisää ohjelmaasi toinen ympyrä, niin että toista voi liikuttaa nuolinäppäimistä ja toista WASD-näppäimistä
 
 	1. Lisää ympyrä ja tallenna se muuttujaan ympyrä2.
 
